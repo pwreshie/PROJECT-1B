@@ -1,4 +1,5 @@
 # PROJECT-1B
+
 A dataset on an e-commerce was provided, where I performed data mining in order to extract a particular feature.
 The extracted feature was what I basically worked on, where;
 I used Line graph, Bar chart, & Pie chart to show Visualizations which was required.
